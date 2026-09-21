@@ -1,0 +1,4 @@
+O.S.L.A.B.1. .s.i.d.=.2.0.2.4.3.0.2.1.1.1.2.4.6. .m.o.d.9.7.=.0.x.2.4.
+.S.E.L.F.T.E.S.T. .z.e.r.o.=.0. .n.e.g.=.-.1.2.3.4.5. .m.a.x.=.2.1.4.7.4.8.3.6.4.7. .h.e.x.=.0.x.2.4. .e.m.p.t.y.=.[.].
+.S.E.L.F.T.E.S.T. .l.o.n.g.=.A.B.C.D.E.F.G.H.I.J.K.L.M.N.O.P.Q.R.S.T.U.V.W.X.Y.Z.a.b.c.d.e.f.g.h.i.j.k.l.m.n.o.p.q.r.s.t.u.v.w.x.y.z.0.1.2.3.4.5.6.7.8.9.A.B.C.D.E.F.G.H.I.J.K.L.M.N.O.P.Q.R.S.T.U.V.W.X.Y.Z.a.b.c.d.e.f.g.h.i.j.k.l.m.n.o.p.q.r.s.t.u.v.w.x.y.z.0.1.2.3.4.5.6.7.8.9.
+.
